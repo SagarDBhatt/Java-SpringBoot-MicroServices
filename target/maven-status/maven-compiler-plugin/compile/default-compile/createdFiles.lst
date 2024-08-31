@@ -1,0 +1,6 @@
+DepartmentMicroservice\Controller\TestController.class
+DepartmentMicroservice\DepartmentMicroserviceMainClass.class
+DepartmentMicroservice\Repository\DeptRepository.class
+DepartmentMicroservice\Controller\DepartmentController.class
+DepartmentMicroservice\Entity\Department.class
+DepartmentMicroservice\Service\DeptService.class
