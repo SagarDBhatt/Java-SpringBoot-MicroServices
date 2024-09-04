@@ -6,6 +6,9 @@ import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
+/**
+ * Filter Service to generate the custom headers for HttpServlet Response.
+ */
 @Component
 public class FiterService implements Filter {
 
